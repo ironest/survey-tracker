@@ -16,5 +16,14 @@
     "url": "https://github.com/ironest/survey-tracker/issues"
   },
   "homepage": "https://github.com/ironest/survey-tracker#readme",
-  "keywords": []
+  "keywords": [],
+  "devDependencies": {
+    "forever": "^1.0.0",
+    "nodemon": "^2.0.2"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "method-override": "^3.0.0",
+    "mongoose": "^5.8.1"
+  }
 }
