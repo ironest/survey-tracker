@@ -1,0 +1,20 @@
+{
+  "name": "survey-tracker",
+  "version": "1.0.0",
+  "description": "Front-end and back-end web application to track surveys",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ironest/survey-tracker.git"
+  },
+  "author": "Riccardo Carzaniga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ironest/survey-tracker/issues"
+  },
+  "homepage": "https://github.com/ironest/survey-tracker#readme",
+  "keywords": []
+}
